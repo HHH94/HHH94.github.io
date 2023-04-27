@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>隨便分享</title>
+    <link>http://hhh94.github.io/</link>
+    <description>Recent content on 隨便分享</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2023 00:12:50 +0800</lastBuildDate><atom:link href="http://hhh94.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automa - Google Chrome自動化擴充功能，將你的時間放大再放大</title>
+      <link>http://hhh94.github.io/posts/automa-google-chrome%E8%87%AA%E5%8B%95%E5%8C%96%E6%93%B4%E5%85%85%E5%8A%9F%E8%83%BD%E5%B0%87%E4%BD%A0%E7%9A%84%E6%99%82%E9%96%93%E6%94%BE%E5%A4%A7%E5%86%8D%E6%94%BE%E5%A4%A7/</link>
+      <pubDate>Thu, 13 Apr 2023 00:12:50 +0800</pubDate>
+      
+      <guid>http://hhh94.github.io/posts/automa-google-chrome%E8%87%AA%E5%8B%95%E5%8C%96%E6%93%B4%E5%85%85%E5%8A%9F%E8%83%BD%E5%B0%87%E4%BD%A0%E7%9A%84%E6%99%82%E9%96%93%E6%94%BE%E5%A4%A7%E5%86%8D%E6%94%BE%E5%A4%A7/</guid>
+      <description>前言 🔗在我們工作或是日常瀏覽網頁時，每天都需要處理非常多重複性高且瑣碎的事，面對這種情況不免會希望能有一套自動化程式能夠代替我們完成，然而並</description>
+    </item>
+    
+  </channel>
+</rss>
